@@ -1,4 +1,4 @@
-# sentiment analysis for telegram news
+# sentiment analysis for telegram news marc
 
 Sentiment analysis tool for Telegram news: scraping with Telethon, text preprocessing, ML classification (BERT), storage in MongoDB and JSON
 
